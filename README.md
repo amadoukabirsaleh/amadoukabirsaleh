@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I am Ahmadou👋
 
-<!--
-**amadoukabirsaleh/amadoukabirsaleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👨‍💻 Software Developer pursuing a Master's in Aerospace Computer Science at the [University of Toulouse III Paul Sabatier](https://www.univ-tlse3.fr/decouvrir-nos-diplomes/master-parcours-computer-science-for-aerospace-csa) <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Spring boot and microservices <br/>
+
+🔭 Recent projects: 3D Sailing Simulator (Unity C#), Android Application for vulnerable road users to generate mobility data <br/>
+
+👯 Open to collaborating on Java, C#, Python and machine learning projects <br/>
+
+💬 Ask me about software development and project management <br/>
+
+📫 Contact: amadoukabirsaleh@gmail.com | +33 773 36 41 69 | [linkedIn](https://www.linkedin.com/in/ahmadoukabirsaleh/) 
+
