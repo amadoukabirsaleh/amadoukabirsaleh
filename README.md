@@ -34,6 +34,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/ahmadoukabirsaleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmadoukabirsaleh" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmadou_kabir_saleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmadou_kabir_saleh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@amadoukabir129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amadoukabir129" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/amadoukabir129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amadoukabir129" height="30" width="40" /></a>
 </p>
 
