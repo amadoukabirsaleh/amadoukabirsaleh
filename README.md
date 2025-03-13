@@ -4,7 +4,7 @@
 
 - 👨‍💻 Software Developer pursuing a Master's in Computer Science for Aerospace at the [University of Toulouse III Paul Sabatier](https://www.univ-tlse3.fr/decouvrir-nos-diplomes/master-parcours-computer-science-for-aerospace-csa)
 
-- 🌱 Currently learning microservice architecture based applications with **spring boot**
+- 🌱 Currently learning **customized AI chatbot** on botpress to explore business ideas
 
 - 🔭 Recent projects: **3D Sailing Simulator (Unity C#), Android Application for vulnerable road users to generate mobility data**
 
